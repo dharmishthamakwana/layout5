@@ -40,39 +40,39 @@ class _FirstState extends State<First> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Padding(
-                          padding: const EdgeInsets.only(left: 60),
+                          padding: const EdgeInsets.only(left: 50),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             child: Container(color: Colors.grey.shade400,child: Text(
                               "      ⚡\n\nELECTRICTY",
-                              style: TextStyle(fontSize: 15),
+                              style: TextStyle(fontSize: 12),
                             ),
                               alignment: Alignment.center),
 
                           ),
                         ),
                         Padding(
-                          padding: const EdgeInsets.only(left: 40),
+                          padding: const EdgeInsets.only(left: 10),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             child: Container(color: Colors.grey.shade400,child: Text(
                               "     💧\n\nWATER",
-                              style: TextStyle(fontSize: 20),
+                              style: TextStyle(fontSize: 15),
                             ),
                             alignment: Alignment.center),
 
                           ),
                         ),
                         Padding(
-                          padding: const EdgeInsets.only(left: 40),
+                          padding: const EdgeInsets.only(left: 10),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             child: Container(color: Colors.grey.shade400,child: Text(
                               "      📱\n\nMOBILE",
-                              style: TextStyle(fontSize: 20),
+                              style: TextStyle(fontSize: 15),
                             ),
                               alignment: Alignment.center),
 
@@ -87,47 +87,47 @@ class _FirstState extends State<First> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Padding(
-                          padding: const EdgeInsets.only(left: 60),
+                          padding: const EdgeInsets.only(left: 50),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             child: Container(color: Colors.grey.shade400,child: Text(
                               "      📞\n\nLANDLINE",
-                              style: TextStyle(fontSize: 20),
+                              style: TextStyle(fontSize: 15),
                             ),
                               alignment: Alignment.center,),
                           ),
                         ),
                         Padding(
-                          padding: const EdgeInsets.only(left: 40),
+                          padding: const EdgeInsets.only(left: 10),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             child: Container(
-                              height: 100,
-                              width: 100,
+                              height: 80,
+                              width: 80,
                               color: Colors.grey.shade400,
                               child: Text(
                                 "     📺\n\nCABLE TV",
-                                style: TextStyle(fontSize: 22),
+                                style: TextStyle(fontSize: 15),
                               ),
                               alignment: Alignment.center,
                             ),
                           ),
                         ),
                         Padding(
-                          padding: const EdgeInsets.only(left: 40),
+                          padding: const EdgeInsets.only(left: 10),
                           child: Container(
-                            width: 100,
-                            height: 100,
+                            width: 80,
+                            height: 80,
                             alignment: Alignment.center,
                             child: Container(
-                              height: 100,
-                              width: 100,
+                              height: 80,
+                              width: 80,
                               color: Colors.grey.shade400,
                               child: Text(
                                 "     🌐\n\nINTERNET",
-                                style: TextStyle(fontSize: 20),
+                                style: TextStyle(fontSize: 15),
                               ),
                               alignment: Alignment.center,
                             ),
@@ -152,39 +152,39 @@ class _FirstState extends State<First> {
                       child: Row(
                         children: [
                           Padding(
-                            padding: const EdgeInsets.only(left: 60),
+                            padding: const EdgeInsets.only(left: 50),
                             child: Container(
-                              width: 100,
-                              height: 100,
+                              width: 80,
+                              height: 80,
                               child: Container(color: Colors.grey.shade400,child: Text(
                                 "    🎞️ \n\nMOVIE",
-                                style: TextStyle(fontSize: 22),
+                                style: TextStyle(fontSize: 15),
                               ),
                                 alignment: Alignment.center),
 
                             ),
                           ),
                           Padding(
-                            padding: const EdgeInsets.only(left: 40),
+                            padding: const EdgeInsets.only(left: 10),
                             child: Container(
-                              width: 100,
-                              height: 100,
+                              width: 80,
+                              height: 80,
                               child: Container(color: Colors.grey.shade400,child: Text(
                                 "    📆\n\nEVENT",
-                                style: TextStyle(fontSize: 22),
+                                style: TextStyle(fontSize: 15),
                               ),
                                 alignment: Alignment.center),
 
                             ),
                           ),
                           Padding(
-                            padding: const EdgeInsets.only(left: 40),
+                            padding: const EdgeInsets.only(left: 10),
                             child: Container(
-                              width: 100,
-                              height: 100,
+                              width: 80,
+                              height: 80,
                               child: Container(color: Colors.grey.shade400,child: Text(
                                 "    🏈\n\nSPORT",
-                                style: TextStyle(fontSize: 22),
+                                style: TextStyle(fontSize: 15),
                               ),
                                   alignment: Alignment.center),
 
